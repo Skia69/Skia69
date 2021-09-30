@@ -27,7 +27,7 @@ I face every project with a can do attitude, I believe that "Learn the new but m
 
 
 ### 😏 Things I'm planning to learn next
-![image](https://img.shields.io/badge/prisma-1B222D?style=for-the-badge&logo=prisma&logoColor=white) ![image](https://img.shields.io/badge/Supabase-181818?style=for-the-badge&logo=supabase&logoColor=white) ![image](https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E) ![image](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white) ![image](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![image](https://img.shields.io/badge/prisma-1B222D?style=for-the-badge&logo=prisma&logoColor=white) ![image](https://img.shields.io/badge/Framer-black?style=for-the-badge&logo=framer&logoColor=blue) ![image](https://img.shields.io/badge/Supabase-181818?style=for-the-badge&logo=supabase&logoColor=white) ![image](https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E) ![image](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white) ![image](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
 
 
