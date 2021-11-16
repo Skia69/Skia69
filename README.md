@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 ### ⚡ A little bit about me
-I am a Re:Coded Graduate Frontend Web Developer with a Bachelor of Science degree in Information Technology from the Lebanese International University.
+I am a Flatiron School and Re:Coded Graduate Frontend Web Developer with a Bachelor of Science degree in Information Technology from the Lebanese International University.
 
 I used to be self-taught prior to having joined the bootcamp and has always been interested in trending technologies - currently experienced in ReactJs, Javascript, GraphQL & TailwindCSS. I happen to be equipped with an ever-growing and promising toolset and I am always looking to expand it.
 
