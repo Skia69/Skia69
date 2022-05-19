@@ -1,4 +1,4 @@
-# Hi there👋, I go by Skia
+# Hi there👋
 
 <!--
 **Skia69/Skia69** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,7 +16,8 @@ Here are some ideas to get you started:
 -->
 
 ### A little bit about me
-I am a Flatiron School and Re:Coded Graduate Frontend Web Developer with a Bachelor of Science degree in Information Technology from the Lebanese International University.
+I go by Skia and I'm based in Lebanon. I am a Flatiron School and Re:Coded Graduate Frontend Web Developer with a Bachelor of Science degree in Information Technology from the Lebanese International University.
+
 
 I used to be self-taught prior to having joined the bootcamp and have always been interested in trending technologies - currently experienced in ReactJs, Javascript, GraphQL & TailwindCSS. I happen to be equipped with an ever-growing and promising toolset and I am always looking to expand it.
 
